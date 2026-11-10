@@ -1,0 +1,186 @@
+Terms of Service & Privacy Policy - Смотря какой Fabric
+
+body {
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+line-height: 1.6;
+color: #333;
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+background-color: #f9f9f9;
+}
+.container {
+background: #fff;
+padding: 40px;
+border-radius: 8px;
+box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+.lang-nav {
+display: flex;
+gap: 10px;
+margin-bottom: 30px;
+border-bottom: 2px solid #eee;
+padding-bottom: 10px;
+}
+.lang-btn {
+background: #e0e0e0;
+border: none;
+padding: 8px 16px;
+border-radius: 20px;
+cursor: pointer;
+font-weight: bold;
+transition: background 0.2s;
+}
+.lang-btn.active, .lang-btn:hover {
+background: #007bff;
+color: white;
+}
+.lang-section {
+display: none;
+}
+.lang-section.active {
+display: block;
+}
+h1 { color: #111; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+h2 { color: #222; margin-top: 30px; }
+p, li { color: #444; }
+ul { padding-left: 20px; }
+
+
+English
+Русский
+Қазақша
+Terms of Service & Privacy Policy
+Effective Date: November 23, 2025 (Updated: November 10, 2026)
+This document constitutes the Terms of Service and Privacy Policy for the Смотря какой фабрик Fabric mobile application (hereby referred to as "Application") for mobile devices that was created by Barys Patapau (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+1. Subscription & Payment Policy
+The Application offers premium features accessible via paid subscriptions. All purchases, subscriptions, and financial transactions are securely processed and managed by the Google Play Billing system.
+
+Billing & Renewal: Subscriptions automatically renew at the end of each billing cycle unless cancelled at least 24 hours before the renewal date. Your linked Google Play account will be charged automatically.
+Cancellation: You can cancel your subscription at any time directly through your Google Play Account settings. Upon cancellation, you will maintain access to premium features until the end of the current billing period.
+Refunds: All refund requests are handled exclusively through Google Play in accordance with Google Play's Refund Policies. The Service Provider does not directly process refunds.
+2. Information Collection and Use
+The Application collects information when you download and use it. This information may include information such as:
+
+Your device's Internet Protocol address (e.g. IP address)
+The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+The time spent on the Application
+The operating system you use on your mobile device
+
+The Application does not gather precise information about the location of your mobile device.
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Boris Potapov. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+3. Third Party Access
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The Service Provider may disclose User Provided and Automatically Collected Information:
+
+as required by law, such as to comply with a subpoena, or similar legal process;
+when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+4. Opt-Out Rights
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+5. Data Retention Policy
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at baryspatapay@gmail.com and they will respond in a reasonable time.
+6. Children
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (baryspatapay@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+7. Security
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+8. Changes
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+9. Your Consent
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+10. Contact Us
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at baryspatapay@gmail.com.
+Условия использования и Политика конфиденциальности
+Дата вступления в силу: 23 ноября 2025 г. (Обновлено: 10 ноября 2026 г.)
+Настоящий документ объединяет Правила пользования и Политику конфиденциальности для мобильного приложения «Смотря какой фабрик Fabric» (далее — «Приложение») для мобических устройств, созданного разработчиком Barys Patapau (далее — «Поставщик услуг») как сервис с поддержкой рекламы. Данный сервис предназначен для использования на условиях «КАК ЕСТЬ».
+1. Условия оплаты и подписок
+Приложение предоставляет доступ к премиум-функциям на основе платных подписок. Все платежи, управление подписками и финансовые операции обрабатываются и защищаются платежной системой Google Play.
+
+Продление и списание: Подписки продлеваются автоматически в конце каждого расчетного периода, если они не были отменены как минимум за 24 часа до даты продления. Оплата списывается с вашего аккаунта Google Play автоматически.
+Отмена подписки: Вы можете отменить подписку в любой момент непосредственно в настройках своего аккаунта Google Play. Доступ к премиум-функциям сохранится до конца оплаченного периода.
+Возврат средств: Все запросы на возврат денежных средств рассматриваются исключительно службой поддержки Google Play в соответствии с Правилами возврата средств Google Play. Поставщик услуг не занимается прямым возвратом средств.
+2. Сбор и использование информации
+Приложение собирает информацию, когда вы загружаете и используете его. Эта информация может включать в себя такую информацию, как:
+
+IP-адрес вашего устройства;
+Страницы Приложения, которые вы посещаете, время и дата вашего посещения, время, проведенное на этих страницах;
+Время, проведенное в Приложении;
+Операционная система, которую вы используете на своем мобильном устройстве.
+
+Приложение не собирает точную информацию о местоположении вашего мобильного устройства.
+Поставщик услуг может использовать предоставленную вами информацию для периодического контакта с вами с целью предоставления вам важной информации, необходимых уведомлений и маркетинговых акций.
+Для улучшения качества работы Приложения Поставщик услуг может потребовать от вас предоставления определенной личной информации, включая, помимо прочего, данные Бориса Потапова. Запрошенная Поставщиком услуг информация будет храниться и использоваться в соответствии с данной политикой конфиденциальности.
+3. Доступ третьих лиц
+Только агрегированные, анонимизированные данные периодически передаются внешним сервисам для оказания помощи Поставщику услуг в улучшении Приложения и предоставляемых им услуг. Поставщик услуг может передавать вашу информацию третьим лицам способами, описанными в данном заявлении о конфиденциальности.
+Поставщик услуг может раскрывать предоставленную пользователем и автоматически собранную информацию:
+
+в соответствии с требованиями закона, например, для выполнения судебной повестки или аналогичного юридического процесса;
+когда он добросовестно полагает, что раскрытие необходимо для защиты его прав, вашей безопасности или безопасности других лиц, расследования мошенничества или ответа на запрос правительства;
+своим доверенным поставщикам услуг, которые работают от его имени, не имеют независимого использования информации, которую мы им раскрываем, и согласились соблюдать правила, изложенные в данном заявлении о конфиденциальности.
+4. Право на отказ от сбора данных
+Вы можете легко прекратить сбор всей информации Приложением, удалив его. Вы можете использовать стандартные процедуры удаления, доступные на вашем мобильном устройстве, в магазине мобильных приложений или в сети.
+5. Политика хранения данных
+Поставщик услуг будет хранить предоставленные пользователем данные до тех пор, пока вы используете Приложение, и в течение разумного времени после этого. Если вы хотите, чтобы они удалили предоставленные вами данные через Приложение, пожалуйста, свяжитесь с ними по адресу baryspatapay@gmail.com, и они ответят в разумные сроки.
+6. Дети
+Поставщик услуг не использует Приложение для целенаправленного сбора данных или маркетинга в отношении детей младше 13 лет. Поставщик услуг не собирает целенаправленно персональные данные детей. Поставщик услуг призывает всех детей никогда не предоставлять никакую персональную информацию через Приложение и/или Сервисы. Поставщик услуг призывает родителей и законных опекунов контролировать использование интернета своими детьми и помогать соблюдать эту Политику, инструктируя детей никогда не предоставлять персональную информацию через Приложение и/или Сервисы без их разрешения. Если у вас есть основания полагать, что ребенок предоставил личную информацию Поставщику услуг через Приложение и/или Сервисы, пожалуйста, свяжитесь с Поставщиком услуг (baryspatapay@gmail.com), чтобы он мог принять необходимые меры. Вам также должно быть не менее 16 лет, чтобы дать согласие на обработку ваших персональных данных в вашей стране (в некоторых странах мы можем разрешить вашему родителю или опекуну сделать это от вашего имени).
+7. Безопасность
+Поставщик услуг заботится о сохранении конфиденциальности вашей информации. Поставщик услуг предоставляет физические, электронные и процедурные меры безопасности для защиты информации, которую Поставщик услуг обрабатывает и хранит.
+8. Изменения
+Настоящая Политика конфиденциальности может время от времени обновляться по любой причине. Поставщик услуг будет уведомлять вас о любых изменениях в Политике конфиденциальности, обновляя эту страницу новой Политикой конфиденциальности. Рекомендуется регулярно просматривать настоящую Политику конфиденциальности на предмет изменений, так как продолжение использования считается одобрением всех изменений.
+9. Ваше согласие
+Используя Приложение, вы соглашаетесь на обработку вашей информации в соответствии с положениями настоящей Политики конфиденциальности в настоящее время и с изменениями, внесенными нами.
+10. Контакты
+Если у вас возникли какие-либо вопросы относительно конфиденциальности при использовании Приложения или вопросы о применяемых практиках, пожалуйста, свяжитесь с Поставщиком услуг по электронной почте baryspatapay@gmail.com.
+Пайдалану шарттары және Құпиялылық саясаты
+Күшіне енген күні: 23 қараша 2025 жыл (Жаңартылды: 10 қараша 2026 жыл)
+Бұл құжат Barys Patapau (бұдан әрі — «Қызмет көрсетуші») жарнамалық қолдауы бар сервис ретінде әзірлеген ұялы құрылғыларға арналған «Смотря какой фабрик Fabric» мобильді қосымшасының (бұдан әрі — «Қосымша») Пайдалану шарттары мен Құпиялылық саясатын біріктіреді. Бұл қызмет «ОСЫ КҮЙІНДЕ» шартымен ұсынылады.
+1. Төлемдер және жазылымдар шарттары
+Қосымша ақылы жазылымдар негізінде премиум функцияларға қолжетімділікті қамтамасыз етеді. Барлық төлемдер, жазылымдарды басқару және қаржылық операциялар Google Play төлем жүйесі арқылы өңделеді және қорғалады.
+
+Жаңарту және есептен шығару: Жазылымдар, егер олар жаңартылатын күннен кемінде 24 сағат бұрын бас тартылмаса, әрбір есептік кезеңнің соңында автоматты түрде жаңартылады. Төлем сіздің Google Play аккаунтыңыздан автоматты түрде алынады.
+Жазылымнан бас тарту: Жазылымнан кез келген уақытта тікелей Google Play аккаунтыңыздың параметрлерінде бас тарта аласыз. Премиум функцияларға қолжетімділік төленген кезеңнің соңына дейін сақталады.
+Қаражатты қайтару: Қаражатты қайтару туралы барлық сұраулар тек Google Play қолдау қызметімен Google Play Қайтару саясатына сәйкес қарастырылады. Қызмет көрсетуші қаражатты тікелей қайтарумен айналыспайды.
+2. Ақпаратты жинау және пайдалану
+Қосымша жүктеп алу және пайдалану кезінде белгілі бір деректерді автоматты түрде жинайды, соның ішінде:
+
+Құрылғыңыздың Интернет хаттамасының мекенжайы (мысалы, IP мекенжайы);
+Сіз кіретін Қосымшаның беттері, сіздің кіру уақытыңыз бен күніңіз, сол беттерде өткізген уақытыңыз;
+Қосымшада өткізілген жалпы уақыт;
+Мобильді құрылғыңызда пайдаланылатын операциялық жүйе.
+
+Қосымша құрылғыңыздың нақты геолокациялық орналасқан жері туралы ақпаратты жинамайды.
+Қызмет көрсетуші жиналған деректерді сізбен байланысу, маңызды хабарламалар мен маркетингтік акцияларды жіберу үшін пайдалануы мүмкін.
+Қосымшаның жұмыс сапасын жақсарту үшін Қызмет көрсетуші сізден белгілі бір жеке ақпаратты, соның ішінде Борис Потаповтың деректерін ұсынуды کیشن талап етуі мүмкін. Бұл ақпарат қатаң түрде осы ережелер шеңберінде сақталады және өңделеді.
+3. Үшінші тұлғалардың қолжетімділігі
+Қосымшаның жұмысын жақсарту үшін сыртқы қызметтерге тек агрегирленген, анонимді деректер ғана беріледі. Қызмет көрсетуші сіздің ақпаратыңызды үшінші тұлғалармен осы құпиялылық мәлімдемесінде сипатталған тәсілдермен бөлісе алады.
+Қызмет көрсетуші пайдаланушы ұсынған және автоматты түрде жиналған ақпаратты келесі жағдайларда аша алады:
+
+заң талаптарына сәйкес, мысалы, сот шақыруын немесе ұқсас заңды процесті орындау үшін;
+өз құқықтарын, сіздің қауіпсіздігіңізді немесе басқалардың қауіпсіздігін қорғау, алаяқтықты тергеу немесе мемлекеттік сұрауға жауап беру үшін ашу қажет деп адал ниетпен сенген кезде;
+оның атынан жұмыс істейтін, біз ашатын ақпаратты дербес пайдаланбайтын және осы құпиялылық мәлімдемесінде белгіленген ережелерді сақтауға келіскен сенімді серіктестерімен.
+4. Деректерді жинаудан бас тарту құқығы
+Қосымша арқылы ақпарат жинауды құрылғыңыздан телефон параметрлері немесе Google Play дүкені арқылы стандартты түрде жою арқылы толық тоқтата аласыз.
+5. Деректерді сақтау саясаты
+Қызмет көрсетуші пайдаланушы ұсынған деректерді сіз Қосымшаны пайдаланған уақыт бойы және одан кейінгі ақылға қонымды мерзімде сақтайды. Егер сіз Қосымша арқылы берген деректеріңізді жойғыңыз келсе, baryspatapay@gmail.com мекенжайы бойынша байланысыңыз, біз жауап береміз.
+6. Балалар
+Қызмет көрсетуші 13 жасқа толмаған балалардың деректерін әдейі жинамайды немесе оларға маркетинг жүргізбейді. Қызмет көрсетуші балалардың жеке деректерін әдейі жинамайды. Қызмет көрсетуші балаларды Қосымша және/немесе Сервистер арқылы ешқашан жеке ақпаратты жібермеуге шақырады. Қызмет көрсетуші ата-аналар мен заңды қамқоршыларды балаларының интернетті пайдалануын бақылауға және балаларына рұқсатсыз ешқашан жеке ақпаратты бермеуді үйретуге шақырады. Егер бала Қызмет көрсетушіге жеке ақпаратты берді деп ойласаңыз, қажетті шараларды қабылдау үшін baryspatapay@gmail.com мекенжайы бойынша хабарласыңыз. Өз еліңізде жеке деректеріңізді өңдеуге келісім беру үшін сіз кемінде 16 жаста болуыңыз керек.
+7. Қауіпсіздік
+Қызмет көрсетуші сіздің ақпаратыңыздың құпиялылығын сақтауға қамқорлық жасайды. Қызмет көрсетуші өзі өңдейтін және сақтайтын ақпаратты қорғау үшін физикалық, электрондық және процедуралық қауіпсіздік шараларын қамтамасыз етеді.
+8. Өзгерістер
+Бұл Құпиялылық саясаты уақыт өте келе қандай да ақпарат себептермен жаңартылуы мүмкін. Қызмет көрсетуші осы бетті жаңа Құпиялылық саясатымен жаңарту арқылы кез келген өзгерістер туралы хабарлайды. Өзгерістерді біліп отыру үшін осы саясатты жүйелі түрде қарап шығу ұсынылады.
+9. Сіздің келісіміңіз
+Қосымшаны пайдалана отырып, сіз өзіңіздің ақпаратыңызды осы Құпиялылық саясатының ережелеріне сәйкес өңдеуге келісім бересіз.
+10. Байланыс ақпараты
+Қосымшаны пайдалану кезінде құпиялылыққа немесе пайдалану шарттарына қатысты сұрақтарыңыз болса, Қызмет көрсетушімен мына электрондық пошта арқылы байланысыңыз: baryspatapay@gmail.com.
+
+function setLang(lang) {
+document.querySelectorAll('.lang-section').forEach(function(el) {
+el.classList.remove('active');
+});
+document.querySelectorAll('.lang-btn').forEach(function(el) {
+el.classList.remove('active');
+});
+document.getElementById('lang-' + lang).classList.add('active');
+event.currentTarget.classList.add('active');
+}
